@@ -9,6 +9,9 @@ Repositorio para almacenar el código desarrollado para el laboratorio 2 del cur
 ## Resumen
 El robot es un ABB IRB-1600 de 6 grados de libertad. El ejercicio consiste en explorar las funciones de los 2 principales toolboxes de MATLAB (RVC y RST). 
 
+![alt text](https://img.directindustry.es/images_di/photo-g/30265-9301859.jpg "Robot ABB IRB 1600")
+
+
 - **Wiki** del Laboratorio : http://robotica-unal-lab2-irb1600-2021-1.wikidot.com/
 
 - **Video** del Laboratorio (YouTube):
