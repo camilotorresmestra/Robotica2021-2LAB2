@@ -11,7 +11,7 @@ El robot es un ABB IRB-1600 de 6 grados de libertad. El ejercicio consiste en ex
 
 - **Wiki** del Laboratorio : http://robotica-unal-lab2-irb1600-2021-1.wikidot.com/
 
-- **Video** del Laboratorio
+- **Video** del Laboratorio (YouTube):
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=chA__se2kdM
 " target="_blank"><img src="http://img.youtube.com/vi/chA__se2kdM/0.jpg" 
